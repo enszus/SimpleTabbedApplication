@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E45EBC222EF14E7000360E2 /* DianaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E45EBC122EF14E7000360E2 /* DianaViewController.swift */; };
 		68A65A6C22EEAC1400E8261E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A65A6B22EEAC1400E8261E /* AppDelegate.swift */; };
 		68A65A6E22EEAC1400E8261E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A65A6D22EEAC1400E8261E /* FirstViewController.swift */; };
 		68A65A7022EEAC1400E8261E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A65A6F22EEAC1400E8261E /* SecondViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E45EBC122EF14E7000360E2 /* DianaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DianaViewController.swift; sourceTree = "<group>"; };
 		68A65A6822EEAC1400E8261E /* TabedApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabedApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68A65A6B22EEAC1400E8261E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68A65A6D22EEAC1400E8261E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				68A65A7422EEAC1A00E8261E /* Assets.xcassets */,
 				68A65A7622EEAC1A00E8261E /* LaunchScreen.storyboard */,
 				68A65A7922EEAC1A00E8261E /* Info.plist */,
+				3E45EBC122EF14E7000360E2 /* DianaViewController.swift */,
 			);
 			path = TabedApplication;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E45EBC222EF14E7000360E2 /* DianaViewController.swift in Sources */,
 				68A65A7022EEAC1400E8261E /* SecondViewController.swift in Sources */,
 				68A65A6C22EEAC1400E8261E /* AppDelegate.swift in Sources */,
 				68A65A6E22EEAC1400E8261E /* FirstViewController.swift in Sources */,
