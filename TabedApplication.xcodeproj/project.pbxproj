@@ -61,6 +61,7 @@
 				68A65A6B22EEAC1400E8261E /* AppDelegate.swift */,
 				68A65A6D22EEAC1400E8261E /* FirstViewController.swift */,
 				68A65A6F22EEAC1400E8261E /* SecondViewController.swift */,
+				68709C0B22EF14D900896291 /* RaduViewController.swift */,
 				68A65A7122EEAC1400E8261E /* Main.storyboard */,
 				68A65A7422EEAC1A00E8261E /* Assets.xcassets */,
 				68A65A7622EEAC1A00E8261E /* LaunchScreen.storyboard */,
@@ -144,6 +145,7 @@
 				3E45EBC222EF14E7000360E2 /* DianaViewController.swift in Sources */,
 				68A65A7022EEAC1400E8261E /* SecondViewController.swift in Sources */,
 				68A65A6C22EEAC1400E8261E /* AppDelegate.swift in Sources */,
+				68709C0C22EF14D900896291 /* RaduViewController.swift in Sources */,
 				68A65A6E22EEAC1400E8261E /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
