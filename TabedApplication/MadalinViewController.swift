@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  MadalinViewController.swift
 //  TabedApplication
 //
 //  Created by Sebastian Zus on 29/07/2019.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class MadalinViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
