@@ -81,6 +81,22 @@
             </objects>
             <point key="canvasLocation" x="750" y="360"/>
         </scene>
+        <!--Veronica-->
+        <scene sceneID="aVW-hF-Pxu">
+            <objects>
+                <viewController id="eUU-sd-7ud" customClass="VeronicaViewController" customModule="TabedApplication" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Tlp-Lw-BKf">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.2038886830723016" green="0.6540833838893505" blue="0.66857593911917101" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <viewLayoutGuide key="safeArea" id="TU4-Yh-eLk"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Veronica" id="LmB-xY-n44"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="r7X-DO-QL0" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="771" y="1202"/>
+	</scene>
         <!--Radu-->
         <scene sceneID="b9F-ai-SaT">
             <objects>
@@ -125,6 +141,7 @@
                     <connections>
                         <segue destination="9pv-A4-QxB" kind="relationship" relationship="viewControllers" id="u7Y-xg-7CH"/>
                         <segue destination="8rJ-Kc-sve" kind="relationship" relationship="viewControllers" id="lzU-1b-eKA"/>
+                        <segue destination="eUU-sd-7ud" kind="relationship" relationship="viewControllers" id="Wb3-gq-J5O"/>
                         <segue destination="Xcl-Bj-v4h" kind="relationship" relationship="viewControllers" id="ZLe-ae-qRb"/>
                         <segue destination="doK-lj-FEe" kind="relationship" relationship="viewControllers" id="8YC-it-eUE"/>
                     </connections>

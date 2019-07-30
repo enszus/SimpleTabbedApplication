@@ -15,8 +15,8 @@ class FirstViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-
-        label.text = "Sebastian \n Madalin \n Robert \n Radu"
+      
+        label.text = "Sebastian \n Madalin \n Radu \n Robert \n Veronica"
     }
 
 
