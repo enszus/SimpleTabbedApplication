@@ -86,7 +86,7 @@
             <objects>
                 <viewController id="s6K-5U-DXW" customClass="DianaViewController" customModule="TabedApplication" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AGE-39-GWE">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="0.68203527286378995" blue="0.74630515974301237" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="UfJ-pb-8QV"/>
@@ -96,13 +96,13 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="g6N-Ty-YWR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="754" y="1096"/>
-      </scene>
+        </scene>
         <!--Veronica-->
         <scene sceneID="aVW-hF-Pxu">
             <objects>
                 <viewController id="eUU-sd-7ud" customClass="VeronicaViewController" customModule="TabedApplication" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Tlp-Lw-BKf">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.2038886830723016" green="0.6540833838893505" blue="0.66857593911917101" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="TU4-Yh-eLk"/>
@@ -112,7 +112,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="r7X-DO-QL0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="771" y="1202"/>
-	</scene>
+        </scene>
         <!--Radu-->
         <scene sceneID="b9F-ai-SaT">
             <objects>
@@ -127,7 +127,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="owC-LM-wI4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1" y="825"/>
+            <point key="canvasLocation" x="-149" y="1202"/>
         </scene>
         <!--Robert-->
         <scene sceneID="nzn-5z-2FU">
@@ -155,11 +155,9 @@
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                     </tabBar>
                     <connections>
-	 		<segue destination="9pv-A4-QxB" kind="relationship" relationship="viewControllers" id="u7Y-xg-7CH"/>
-                       	<segue destination="8rJ-Kc-sve" kind="relationship" relationship="viewControllers" id="lzU-1b-eKA"/>
-                        <segue destination="s6K-5U-DXW" kind="relationship" relationship="viewControllers" id="kKP-xR-3IN"/>
                         <segue destination="9pv-A4-QxB" kind="relationship" relationship="viewControllers" id="u7Y-xg-7CH"/>
                         <segue destination="8rJ-Kc-sve" kind="relationship" relationship="viewControllers" id="lzU-1b-eKA"/>
+                        <segue destination="s6K-5U-DXW" kind="relationship" relationship="viewControllers" id="kKP-xR-3IN"/>
                         <segue destination="eUU-sd-7ud" kind="relationship" relationship="viewControllers" id="Wb3-gq-J5O"/>
                         <segue destination="Xcl-Bj-v4h" kind="relationship" relationship="viewControllers" id="ZLe-ae-qRb"/>
                         <segue destination="doK-lj-FEe" kind="relationship" relationship="viewControllers" id="8YC-it-eUE"/>
