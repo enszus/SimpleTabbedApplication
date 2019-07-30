@@ -15,6 +15,7 @@
 		68A65A7322EEAC1400E8261E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A65A7122EEAC1400E8261E /* Main.storyboard */; };
 		68A65A7522EEAC1A00E8261E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68A65A7422EEAC1A00E8261E /* Assets.xcassets */; };
 		68A65A7822EEAC1A00E8261E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A65A7622EEAC1A00E8261E /* LaunchScreen.storyboard */; };
+		75CEFD0022EF19F2007CACBA /* VeronicaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75CEFCFF22EF19F2007CACBA /* VeronicaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		68A65A7422EEAC1A00E8261E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68A65A7722EEAC1A00E8261E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		68A65A7922EEAC1A00E8261E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75CEFCFF22EF19F2007CACBA /* VeronicaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VeronicaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +62,13 @@
 		68A65A6A22EEAC1400E8261E /* TabedApplication */ = {
 			isa = PBXGroup;
 			children = (
+				68A65A7922EEAC1A00E8261E /* Info.plist */,
 				68A65A6B22EEAC1400E8261E /* AppDelegate.swift */,
 				68A65A6D22EEAC1400E8261E /* FirstViewController.swift */,
 				68A65A6F22EEAC1400E8261E /* SecondViewController.swift */,
 				68709C0B22EF14D900896291 /* RaduViewController.swift */,
 				68A65A7122EEAC1400E8261E /* Main.storyboard */,
+				75CEFCFF22EF19F2007CACBA /* VeronicaViewController.swift */,
 				68A65A7422EEAC1A00E8261E /* Assets.xcassets */,
 				68A65A7622EEAC1A00E8261E /* LaunchScreen.storyboard */,
 				68A65A7922EEAC1A00E8261E /* Info.plist */,
@@ -146,6 +150,7 @@
 			files = (
 				3E45EBC222EF14E7000360E2 /* DianaViewController.swift in Sources */,
 				68A65A7022EEAC1400E8261E /* SecondViewController.swift in Sources */,
+				75CEFD0022EF19F2007CACBA /* VeronicaViewController.swift in Sources */,
 				68A65A6C22EEAC1400E8261E /* AppDelegate.swift in Sources */,
 				68709C0C22EF14D900896291 /* RaduViewController.swift in Sources */,
 				68A65A6E22EEAC1400E8261E /* FirstViewController.swift in Sources */,
